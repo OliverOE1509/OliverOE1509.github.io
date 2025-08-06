@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Projects
+layout: single
+title: "Projects"
+author_profile: true
 ---
 
 # 🛠 Projects
