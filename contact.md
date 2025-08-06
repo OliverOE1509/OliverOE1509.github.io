@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
+title: "contact"
 author_profile: true
 ---
 
