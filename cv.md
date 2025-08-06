@@ -1,6 +1,7 @@
 ---
-layout: default
-title: CV
+layout: single
+title: "CV"
+author_profile: true
 ---
 
 # 📄 Curriculum Vitae
