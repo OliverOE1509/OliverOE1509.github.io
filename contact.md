@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "contact"
 author_profile: true
 ---
