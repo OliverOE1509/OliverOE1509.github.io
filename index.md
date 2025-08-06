@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+layout: single
+title: "Home"
+author_profile: true
 ---
 
 # 👋 Hi, I'm Oliver Ekeberg
