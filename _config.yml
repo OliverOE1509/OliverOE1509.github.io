@@ -1,4 +1,6 @@
 title: Oliver Ekeberg
 description: My academic portfolio
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
 markdown: kramdown
