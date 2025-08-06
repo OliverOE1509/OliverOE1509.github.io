@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "CV"
 author_profile: true
 ---
