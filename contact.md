@@ -6,6 +6,6 @@ author_profile: true
 
 # 📬 Contact
 
-- 📧 Email: `youremail@example.com`  
-- 💼 [LinkedIn](https://linkedin.com/in/oliverekeberg)  
-- 🧠 [GitHub](https://github.com/oliverekeberg)
+- 📧 Email: `oliveroekeberg@gmail.com`  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oliver-ekeberg/)  
+- 🧠 [GitHub](https://github.com/OliverOE1509)
